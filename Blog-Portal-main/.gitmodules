@@ -1,0 +1,3 @@
+[submodule "Blog-portal-frontend"]
+	path = Blog-portal-frontend
+	url = https://github.com/PriyadharshiniG20/Blog-portal-frontend.git
